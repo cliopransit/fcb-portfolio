@@ -24,17 +24,19 @@ img{
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	background-color: black;
 }
 ul{
 	list-style: none;
 	padding: 0;
+
 }
 h2{
 	color: #007bff;
 }
 .tools{
 	padding: 25px;
-	height: 200px;
+	height: 250px;
 	margin: 20px;
 	width: 75%;
 	border: 5px solid #f2f2f2;
